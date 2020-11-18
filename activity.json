@@ -1,20 +1,167 @@
 {"questionlist":[
-{"cardfront":"CAT",
-"cardback":"GATO"
+{"cardfront":"El arte",
+"cardback":"art"
 },
-{"cardfront":"DOG",
-"cardback":"PERRO"
+{"cardfront":"La biologia",
+"cardback":"Biology"
 },
-{"cardfront":"HORSE",
-"cardback":"CABALLO"
+{"cardfront":"El colegio",
+"cardback":"School"
 },
-{"cardfront":"RABBIT",
-"cardback":"CONEJO"
+{"cardfront":"La computacion",
+"cardback":"Computer Class"
 },
-{"cardfront":"TIGER",
-"cardback":"TIGRE"
+{"cardfront":"El Espanol",
+"cardback":"Spanish Class"
 },
-{"cardfront":"KANGAROO",
-"cardback":"CANGURO"
-}
+{"cardfront":"La Historia",
+"cardback":"History"
+},
+{"cardfront":"El horario",
+"cardback":"Scedule"
+},
+{"cardfront":"El Ingles",
+  "cardback":"English"
+},
+{"cardfront":"Las Matematicas",
+  "cardback":"Mathmemics"
+},
+{"cardfront":"La musica",
+  "cardback":"Music"
+},
+{"cardfront":"alo",
+  "cardback":"Hello(telephone)"
+},
+{"cardfront":"cual?",
+  "cardback":"Which ones?"
+},
+{"cardfront":"La Direccion",
+  "cardback":"Internet/Mail"
+},
+{"cardfront":"El Numero de telefono",
+  "cardback":"Communication Numbers"
+},
+{"cardfront":"El telefono",
+  "cardback":"telephone"
+},
+{"cardfront":"La Blusa",
+  "cardback":"Blouse"
+},
+{"cardfront":"El Calcetin",
+  "cardback":"Sock"
+},
+{"cardfront":"La camisa",
+  "cardback":"Shirt"
+},
+{"cardfront":"La camiseta",
+  "cardback":"Jersy,tshirt"
+},
+{"cardfront":"La falda",
+  "cardback":"Skirt"
+},
+{"cardfront":"Los jeans",
+  "cardback":"Jeans"
+},
+{"cardfront":"El pantalon",
+  "cardback":"Pants"
+},
+{"cardfront":"La Ropa",
+  "cardback":"Clothing"
+},
+{"cardfront":"El Zapato",
+  "cardback":"Shoes"
+},
+{"cardfront":"Amarillo/a",
+  "cardback":"yellow"
+},
+{"cardfront":"Azul",
+  "cardback":"Blue"
+},
+{"cardfront":"Blanco/a",
+  "cardback":"white"
+},
+{"cardfront":"gris",
+  "cardback":"grey"
+},
+{"cardfront":"negro/a",
+  "cardback":"black"
+},
+{"cardfront":"rojo/a",
+  "cardback":"red"
+},
+{"cardfront":"Verde",
+  "cardback":"Green"
+},
+{"cardfront":"La arroba",
+  "cardback":"@"
+},
+{"cardfront":"La Computadora",
+  "cardback":"Computer"
+},
+{"cardfront":"El disco",
+  "cardback":"CD-ROM"
+},
+{"cardfront":"LA impresora",
+  "cardback":"Lazer Printer"
+},
+{"cardfront":"La pantalla",
+  "cardback":"Screen"
+},
+{"cardfront":"El raton",
+  "cardback":"Mouse"
+},
+{"cardfront":"El teclado",
+  "cardback":"Keyboard"
+},
+{"cardfront":"EL Domingo",
+  "cardback":"Sunday"
+},
+{"cardfront":"El Jueves",
+  "cardback":"Thursday"
+},
+{"cardfront":"El Lunes",
+  "cardback":"Monday"
+},
+{"cardfront":"El Martes",
+  "cardback":"Tuesday"
+},
+{"cardfront":"El Miercoles",
+  "cardback":"Wednesday"
+},
+{"cardfront":"El sabado",
+  "cardback":"Saturday"
+},
+{"cardfront":"El viernes",
+  "cardback":"Friday"
+},
+{"cardfront":"E",
+  "cardback":"E"
+},
+{"cardfront":"E",
+  "cardback":"E"
+},
+{"cardfront":"E",
+  "cardback":"E"
+},
+{"cardfront":"E",
+  "cardback":"E"
+},
+{"cardfront":"E",
+  "cardback":"E"
+},
+{"cardfront":"E",
+  "cardback":"E"
+},
+{"cardfront":"E",
+  "cardback":"E"
+},
+{"cardfront":"E",
+  "cardback":"E"
+},
+{"cardfront":"E",
+  "cardback":"E"
+},
+{"cardfront":"E",
+  "cardback":"E"
+},
 ]}
